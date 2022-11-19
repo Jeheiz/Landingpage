@@ -1,12 +1,18 @@
+.block{
+  background-color: rgb(211, 211, 208);
+  height:250px;
 
-/* 
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+.letter{
+    font-size: 45px;
+}
 
-*/
+.card2{
+ text-align: left;
+}
+
+.footer{
+  background-color: black;
+  height: 150px; 
+}
